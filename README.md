@@ -15,5 +15,5 @@ Run the following commands to setup the database:<br>
 
 ### Resetting databases
 `.delete` - Deletes the joinchannel database<br>
-`.delete2` - Delets the message leaderboard database<br>
+`.delete2` - Deletes the message leaderboard database<br>
 `.delete3` - Deletes the schedule database<br>
